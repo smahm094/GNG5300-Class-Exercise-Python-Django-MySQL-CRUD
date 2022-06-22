@@ -5,9 +5,8 @@
 
 This work consists of the following topics:
 
-Python Django MySQL CRUD project setup
-
-Python Django MySQL CRUD create url pattern
+1. Python Django MySQL CRUD project setup
+2. Python Django MySQL CRUD create url pattern
 
 Python Django MySQL CRUD create model
 Python Django MySQL CRUD create model form
