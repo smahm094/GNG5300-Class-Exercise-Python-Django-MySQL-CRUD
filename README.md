@@ -3,7 +3,7 @@
  
 ## *The best way to use CRUD operations in MySQL is with stored procedures, which are automated processes. This allows us to increase the efficiency and lower the time spent writing the same queries repeatedly.*
 
-This work consists of following topics:
+This work consists of the following topics:
 
 Python Django MySQL CRUD project setup
 Python Django MySQL CRUD create url pattern
