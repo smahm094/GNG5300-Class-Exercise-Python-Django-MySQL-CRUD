@@ -7,15 +7,14 @@ This work consists of the following topics:
 
 1. Python Django MySQL CRUD project setup
 2. Python Django MySQL CRUD create url pattern
-
-Python Django MySQL CRUD create model
-Python Django MySQL CRUD create model form
-Python Django MySQL CRUD view function CREATE
-Python Django MySQL CRUD HTML CREATE
-Python Django MySQL CRUD view function RETRIEVE
-Python Django MySQL CRUD HTML RETRIEVE
-Python Django MySQL CRUD view function UPDATE
-Python Django MySQL CRUD HTML UPDATE
-Python Django MySQL CRUD view function DELETE
-Python Django MySQL CRUD HTML DELETE
-Python Django MySQL CRUD Example
+3. Python Django MySQL CRUD create model
+4. Python Django MySQL CRUD create model form
+5. Python Django MySQL CRUD view function CREATE
+6. Python Django MySQL CRUD HTML CREATE
+7. Python Django MySQL CRUD view function RETRIEVE
+8. Python Django MySQL CRUD HTML RETRIEVE
+9. Python Django MySQL CRUD view function UPDATE
+10. Python Django MySQL CRUD HTML UPDATE
+11. Python Django MySQL CRUD view function DELETE
+12. Python Django MySQL CRUD HTML DELETE
+13. Python Django MySQL CRUD Example
