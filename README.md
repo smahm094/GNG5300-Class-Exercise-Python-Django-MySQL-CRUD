@@ -6,7 +6,7 @@ lower the time spent writing the same queries repeatedly.*
 
 This work consists of following topics:
 
->Python Django MySQL CRUD project setup
+Python Django MySQL CRUD project setup
 Python Django MySQL CRUD create url pattern
 Python Django MySQL CRUD create model
 Python Django MySQL CRUD create model form
